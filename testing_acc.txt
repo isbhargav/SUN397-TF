@@ -1,0 +1,19 @@
+########################################################################
+#      Date:           Sun Nov 24 11:24:00 PST 2019
+#    Job ID:           417432.v-qsvr-1.aidevcloud
+#      User:           u30936
+# Resources:           neednodes=1:batch:ppn=2,nodes=1:batch:ppn=2,walltime=06:00:00
+########################################################################
+
+Found 15880 validated image filenames belonging to 397 classes.
+Found 3970 validated image filenames belonging to 397 classes.
+Found 19850 validated image filenames belonging to 397 classes.
+Loss:  0.015304628759622574  Acc  0.48216626048088074
+Loss:  3.836902618408203  Acc  0.48216626048088074
+Loss:  3.1940886974334717  Acc  0.48216626048088074
+Average Testing accuracy for 3 Trials  0.48216626048088074
+
+########################################################################
+# End of output for job 417432.v-qsvr-1.aidevcloud
+# Date: Sun Nov 24 14:45:31 PST 2019
+########################################################################
