@@ -1,5 +1,5 @@
 # Classification on SUN397 dataset
-# ________________________________________________________________
+# ________________________________________________________
 
 - **Dataset:** The Dataset selected for the Final Project is SUN397 which belongs to Task-
     2. The dataset contains different classes belonging to environmental scenes, places and
